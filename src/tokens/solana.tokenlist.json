@@ -1,9 +1,11 @@
-{
-  "chainId": 101,
-  "address": "Cp5UXr4vupGoSwSuPM4jE8DCZyAZqxgczvM7wAeqpump",
-  "symbol": "EHST",
-  "name": "Evolved Hybrid Sheep Tech",
-  "decimals": 9,
-  "logoURI": "https://i.imgur.com/yYGxClK.png",
-  "tags": ["community-token"]
-}
+[
+  {
+    "chainId": 101,
+    "address": "Cp5UXr4vupGoSwSuPM4jE8DCZyAZqxgczvM7wAeqpump",
+    "symbol": "EHST",
+    "name": "Evolved Hybrid Sheep Tech",
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/yYGxClK.png",
+    "tags": ["community-token"]
+  }
+]
